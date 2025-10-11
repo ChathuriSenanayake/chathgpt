@@ -26,7 +26,7 @@ export default function AIFortuneTeller() {
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 1 }}
-                        className="text-4xl sm:text-5xl font-bold mb-4"
+                        className="text-4xl sm:text-5xl font-bold mb-4  text-white"
                     >
                         Ask ChathGPT
                     </motion.h2>
@@ -73,7 +73,7 @@ export default function AIFortuneTeller() {
                             <p>The AI senses your presence...</p>
                         </motion.div>
                     </motion.div> */}
-                \            </AnimatePresence>
+            </AnimatePresence>
         </div>
     );
 }

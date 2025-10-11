@@ -14,7 +14,7 @@ export default function Home() {
             </main>
 
             {/* Footer */}
-            <footer className="flex text-xs  items-center justify-center p-4">
+            <footer className="flex text-xs  items-center justify-center p-4 text-white">
                 <div>Created by Chath_S</div>
             </footer>
         </div>
