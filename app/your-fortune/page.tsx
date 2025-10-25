@@ -12,8 +12,9 @@ export default function YourFortuneResults() {
 
     const fortune = useMemo(() => {
         try {
-            const name = params.get("name");
-            const hasKey = data.find(item => item.name === name)
+            const name = params.get("name")
+            console.log("name:", name && decodeURIComponent(name).trim());
+            const hasKey = name && data.find(item => decodeURIComponent(name).trim().toLowerCase() === item.name.toLowerCase());
             if (!hasKey) {
                 throw new Error("name not found")
             }

@@ -1,6 +1,186 @@
 [
     {
-        "name": "Chathuri",
-        "fortune": "Something that goes like .."
+        "name": "Amelia",
+        "fortune": "The spirits of persuasion smile upon you. You’ll close a million-dollar deal — with a chatbot pretending to be real."
+    },
+    {
+        "name": "Arif",
+        "fortune": "The crystal ball gazes into the loops of time… and the loops gaze back. Your future holds infinite loops both in code and in meetings."
+    },
+    {
+        "name": "Ayub",
+        "fortune": "You will inherit a backlog that is older than the stars"
+    },
+    {
+        "name": "Cynthia",
+        "fortune": "The moon reveals a restless backlog, whispering your name. It achieves sentience — yet refuses to be prioritized."
+    },
+    {
+        "name": "Ramin",
+        "fortune": "I hear the cries of tickets unanswered, echoing across time. You’ll resolve them all — except the one that resolves you."
+    },
+    {
+        "name": "Eric",
+        "fortune": "Behold... the stars shimmer upon the one who questions all things — from font size to pantry layout. The universe sighs, “Not everything needs a redesign.”"
+    },
+    {
+        "name": "Fatima",
+        "fortune": "The spirits hand you the sacred scroll of testing. You’ll find a bug that breaks reality — and the devs will call it a feature."
+    },
+    {
+        "name": "Hank",
+        "fortune": "The universe loops endlessly, and so shall you. You’ll discover the meaning of life inside a nested loop."
+    },
+    {
+        "name": "James",
+        "fortune": "ChathGPT sees your future... An undefined variable will ruin your week and your faith in humanity."
+    },
+    {
+        "name": "Jasmine",
+        "fortune": "The cosmic linter smiles on you, young one. Your upcoming pull requests shall be legendary with feedback like you've never seen before"
+    },
+    {
+        "name": "Kenny",
+        "fortune": "The crystal ball sees your keyboard glowing with quiet pride. You’ll fix a bug so elegant, no one believes it was ever broken."
+    },
+    {
+        "name": "Khaldoon",
+        "fortune": "The planets gather in retrospective. You’ve tried to apply Scrum to world peace — the sprint goal remains ambitious, and the backlog infinite."
+    },
+    {
+        "name": "Jo-ey",
+        "fortune": "The crystal ball gazes into the future… your masterpiece shines, balanced, divine — and then marketing will ask to make the logo bigger and add one more paragraph"
+    },
+    {
+        "name": "Joey",
+        "fortune": "The crystal ball gazes into the future… your masterpiece shines, balanced, divine — and then marketing will ask to make the logo bigger and add one more paragraph"
+    },
+    {
+        "name": "Markus",
+        "fortune": "The crystal ball reveals a dog cage emerging from the shadows. It seeks release, not attention. Set it free, and balance will be restored"
+    },
+    {
+        "name": "Megat",
+        "fortune": "The crystal ball gazes into the future...your code will work perfectly always but, only on your machine."
+    },
+    {
+        "name": "Ikhlas",
+        "fortune": "You will be the chosen one… to refactor legacy code until 2042."
+    },
+    {
+        "name": "Faiz",
+        "fortune": "The prophecy says: ‘One test shall fail without reason.’ Good luck finding that reason"
+    },
+    {
+        "name": "Samim",
+        "fortune": "The branches converge under a blood moon. You will merge — but the conflicts will find you."
+    },
+    {
+        "name": "Nadiy",
+        "fortune": "You will craft words that move hearts — and still be asked to include more hashtags."
+    },
+    {
+        "name": "Nadiyshyaa",
+        "fortune": "You will craft words that move hearts — and still be asked to include more hashtags."
+    },
+    {
+        "name": "Navin",
+        "fortune": "The console speaks in riddles tonight. Your debugger shall reveal not truth, but despair."
+    },
+    {
+        "name": "Nic",
+        "fortune": "The balance sheets shimmer under cosmic light. The universe balances — except the accounts. The numbers will mock you gently."
+    },
+    {
+        "name": "Niezwan",
+        "fortune": "The code whispers... you will find inner peace... right after your zus order arrives and the TOMP stops upgrading to the next version."
+    },
+    {
+        "name": "Wan",
+        "fortune": "The code whispers... you will find inner peace... right after your zus order arrives and the TOMP stops upgrading to the next version."
+    },
+    {
+        "name": "Izzie",
+        "fortune": "Behold... the cosmic balance tilts as milk carton No. 4 strays from its rightful spot. The universe seeks the milk thief, and soon you must choose — to forgive or to forget. Be mindful, for one path leads to inner peace, while the other invites quiet despair."
+    },
+    {
+        "name": "Nurul",
+        "fortune": "Beware of the retrograde sprint; it brings scope creep disguised as feedback... and your cat will agree"
+    },
+    {
+        "name": "Shane",
+        "fortune": "The sensors flicker... you are destined to ship great code — but only if your Zus order arrives before stand-up."
+    },
+    {
+        "name": "Thisura",
+        "fortune": "The moonlight drips in perfect contrast. You will chase perfection in pixels — yet destiny shall favor the rough draft."
+    },
+    {
+        "name": "Titi",
+        "fortune": "Your analytics dashboard becomes self-aware and starts judging you."
+    },
+    {
+        "name": "Vignnesh",
+        "fortune": "Your stars are entangled in chats with Vicky and late-night commits."
+    },
+    {
+        "name": "Gabb",
+        "fortune": "A great revelation shall come to you in the shower… and you will forget it before you find your towel."
+    },
+    {
+        "name": "Natasha",
+        "fortune": "Three socks will enter the washing machine. Two shall return. The third begins a new life in another dimension."
+    },
+    {
+        "name": "Wendy",
+        "fortune": "Your reflection has something to tell you, but it’s waiting for better lighting."
+    },
+    {
+        "name": "Nurin",
+        "fortune": "Happiness arrives when you stop trying to make sense of horoscopes written by AI."
+    },
+    {
+        "name": "Rocio",
+        "fortune": "The truth you seek is probably hidden in your spam folder."
+    },
+    {
+        "name": "Halina",
+        "fortune": "The truth you seek is probably hidden in your spam folder."
+    },
+    {
+        "name": "Jakub",
+        "fortune": "Behold... the stars see you towering above all others. Great heights are certain — whether of wisdom or ceiling clearance is yet unclear."
+    },
+    {
+        "name": "Darren",
+        "fortune": "Behold... the universe observes your confidence. Yet remember, confident one: when you walk into non booked meetings rooms, you will be judged by the rest.."
+    },
+    {
+        "name": "Joan",
+        "fortune": "A notification will come at midnight. Do not open it. It is only ClickUp… pretending to care."
+    },
+    {
+        "name": "Hubert",
+        "fortune": "The stars align... you’ll discover the meaning of life inside a nested loop."
+    },
+    {
+        "name": "Sofia",
+        "fortune": "Beware of overthinking; you already have enough tabs opened."
+    },
+    {
+        "name": "Shifarah",
+        "fortune": "ChathGPT sees that your charm opens doors, yet the client still wants a discount."
+    },
+    {
+        "name": "Fabien",
+        "fortune": "The quantum fog clears...a bright future awaits you -- a day will come when you dont run your responses through ChatGPT"
+    },
+    {
+        "name": "Kaz",
+        "fortune": "You shall find a typo in the Scrum Bible… and question everything you’ve ever believed"
+    },
+    {
+        "name": "Ganesh",
+        "fortune": "You’ll remove all blockers, except the emotional ones"
     }
 ]

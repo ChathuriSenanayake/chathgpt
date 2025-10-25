@@ -25,16 +25,8 @@ export const NameTextField: React.FC<NameTextFieldProps> = ({ onSubmit, value: c
 
         if (e.key === "Enter") {
             try {
-                if (onSubmit) {
-                    // support promise or sync handler
-                    await Promise.resolve(onSubmit(internalValue));
-                    // after user handler resolves, navigate to results
-                    router.push('/your-fortune?name=' + encodeURIComponent(internalValue));
-                } else {
-                    // no handler — show loader briefly then navigate
-                    await new Promise((r) => setTimeout(r, 600));
-                    router.push('/your-fortune?name=' + encodeURIComponent(internalValue));
-                }
+                router.push('/your-fortune?name=' + encodeURIComponent(internalValue));
+
                 // don't setLoading(false) after navigation (component will unmount)
             } catch (err) {
                 // If submission fails, allow retry
