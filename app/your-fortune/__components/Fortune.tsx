@@ -1,6 +1,6 @@
 'use client';
 import { useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { motion, useAnimation } from 'framer-motion';
 import data from '../../../utils/fortune.json';
 
@@ -110,45 +110,7 @@ export default function YourFortuneResults() {
                     {fortune}
 
                 </motion.div>
-                {/* {step === 3 && (
-                    <>
-                        <div className="flex flex-row">
-                            <motion.div
-                                initial={{ y: 0, opacity: 0 }}
-                                aria-hidden
-                                animate={{ y: [20, -20, 0], opacity: [0, 1, 0] }}
-                                transition={{ duration: 8, }}
-                                className=" text-white text-2xl">
-                            </motion.div>
-
-                        </div>
-                        <motion.div
-                            initial={{ y: 0 }}
-                            animate={{ y: [0, -20], transition: { duration: 2 } }}
-
-                            className="text-white text-2xl"
-                        >
-                            {"Dear," + params?.get("name") || "Seeker of Truth,"}
-
-                        </motion.div>
-                        <motion.div
-                            initial={{ y: 20, opacity: 0 }}
-                            aria-hidden
-                            animate={{ y: [20, 0], opacity: [0, 1] }}
-                            transition={{ delay: 2, duration: 3, }}
-                            className=" text-white text-2xl mt-4 max-w-xl text-center"
-                        >
-                            {"The path ahead is filled with opportunities and challenges. Embrace change, trust your instincts, and remember that every step you take shapes your destiny. Fortune favors the bold!"}
-
-                        </motion.div>
-                    </>
-                )} */}
             </main>
-
-            {/* Footer
-            <footer className="flex text-xs  items-center justify-center p-4 text-white">
-                <div>Created by Chath_S</div>
-            </footer> */}
         </div>
     );
 }
