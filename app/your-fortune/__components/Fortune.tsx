@@ -40,7 +40,6 @@ export default function YourFortuneResults() {
                 nameanimateControls.start({
                     opacity: [0, 1],
                     scale: [0, 1],
-                    rotate: [0, 360],
                     transition: { duration: 2 },
                 });
                 break;
