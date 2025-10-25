@@ -5,6 +5,7 @@ import { useState } from "react";
 import Image from "next/image";
 import AnimatedBackground from "./AnimatedBackground";
 import ShinyButton from "./ShinyButton";
+import { CrystalBall } from "./CrystalBall";
 
 export default function AIFortuneTeller() {
     const [entered, setEntered] = useState(false);
@@ -12,7 +13,7 @@ export default function AIFortuneTeller() {
     return (
         <div className="relative flex items-center justify-center h-screen w-screen overflow-hidden">
             <AnimatedBackground />
-
+            {/* <CrystalBall /> */}
             <AnimatePresence mode="wait">
                 <motion.div
                     key="welcome"
